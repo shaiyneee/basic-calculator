@@ -39,4 +39,10 @@ Result: 15.0
 - GitHub
 - Git version control
 
-Add README documentation
+
+## Error Handling
+The calculator checks for invalid numeric input.
+It also prevents division by zero and modulo by zero.
+If an unsupported operation is selected, the program
+displays an error message.
+
