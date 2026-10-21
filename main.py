@@ -1,5 +1,6 @@
-
 # Python Basic Calculator
+# Supports five arithmetic operations with basic error handling.
+
 
 print("===== BASIC CALCULATOR =====")
 print("Select an operation to begin.")
